@@ -66,7 +66,7 @@ How to Contribute
     
     Copy code
     
-    `git clone https://github.com/yourusername/community-skill-development-platform.git`
+    `git clone https://github.com/regconline/community-skill-development-platform.git`
     
 2.  **Frontend Setup:**
     
